@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I'm a passionate about **[L'Analyse de données, le Business Intelligence (BI), l'intelligence artificielle et le développement de solutions numériques.]** with experience in **[Technologies de l’information, intelligence d’affaires et analyse de données de plus de 10 ans en gestion de données, développement d’indicateurs de performance et amélioration des processus. Spécialisé en Business Intelligence et solutions basées sur l’intelligence artificielle. Expérience dans la traduction des besoins opérationnels en solutions technologiques concrètes, à l’aide des outils d’IA générative]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate about **[L'analyse de données, l'intelligence d’affaires(BI), l'intelligence artificielle et le développement de solutions numériques.]** with experience in **[Technologies de l’information de plus de 10 ans, intelligence d’affaires et analyse de données de plus de 10 ans, J’aide les entreprises à transformer leurs données en décisions et en performance à l'aide des indicateurs de performance et des outils d'amélioration des processus et  des outils d’IA générative]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[ChatGPT, Claude AI, Microsoft Copilot, Azure AI, Perplexity et Lovable.dev pour accélérer la création de prototypes innovants et le développement des applications.]**
 - 🔭 Working on: **[current projects or side-projects]**
