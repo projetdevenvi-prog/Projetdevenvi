@@ -1,15 +1,15 @@
 # Projetdevenvi
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Edmond BAMBARA]! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Analyste de données BI et Transformation numérique/ Developer Role]** with experience in **[Technologies de l’information, intelligence d’affaires et analyse de données avec plus de 10 ans d’expériences en gestion de données, développement d’indicateurs de performance et amélioration des processus. Spécialisé en Business Intelligence et solutions basées sur l’intelligence artificielle. Expérience dans la traduction des besoins opérationnels en solutions technologiques concrètes, à l’aide des outils d’IA générative]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **[ChatGPT, Claude AI, Microsoft Copilot, Azure AI, Perplexity et Lovable.dev pour accélérer la création de prototypes innovants et le développement des applications.]**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌍 Languages: **[Programmation: Python (Pandas, NumPy, scikit-learn, TensorFlow), Java, C#, HTML, JavaScript and languages Parlés: Français, Anglais]**
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
